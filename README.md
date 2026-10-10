@@ -35,16 +35,16 @@ This creates a reusable integration layer between Biznex and external applicatio
                       │         │         │
                       ▼         ▼         ▼
                 ┌─────────────────────────────┐
-                │            BCaaS             │
-                │       API Gateway Layer      │
-                │                              │
+                │            BCaaS            │
+                │       API Gateway Layer     │
+                │                             │
                 │  • Request Validation       │
-                │  • Platform Verification     │
-                │  • SSO Handling              │
-                │  • User Mapping               │
-                │  • User Provisioning          │
-                │  • JWT Authentication         │
-                │  • Rate Limiting              │
+                │  • Platform Verification    │
+                │  • SSO Handling             │
+                │  • User Mapping             │
+                │  • User Provisioning        │
+                │  • JWT Authentication       │
+                │  • Rate Limiting            │
                 └──────────────┬──────────────┘
                                │
                                ▼
